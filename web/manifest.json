@@ -1,6 +1,6 @@
 {
-    "name": "hardware_store_application",
-    "short_name": "hardware_store_application",
+    "name": "layout_laboratory",
+    "short_name": "layout_laboratory",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
