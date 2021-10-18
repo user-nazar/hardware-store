@@ -1,1 +1,1 @@
-# Hardware store 
+# Hardware store application
